@@ -1,2 +1,4 @@
 # WashingtonNCS
-Estimating potential greenhouse gas emissions reductions by Natural Climate Solutions in Washington State.
+This repository holds supplementary materials from "Leveraging the potential of nature to meet net zero greenhouse gas emissions in Washington State" (Robertson et al., in review).
+
+Abstract:
