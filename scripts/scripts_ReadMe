@@ -1,0 +1,3 @@
+This folder contains R scripts used to: 
+  (1) calculate CO2e sequestration of Natural Climate Solutions (NCS) pathways by county in Washington, USA. (Supplemental Code S8.R)
+  (2) calculate median values and confidence intervals for unique combinations of input tables, here with columns named Scenario, ScenName, County, Activity, Subactivity, and Year.
