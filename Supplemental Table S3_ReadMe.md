@@ -1,3 +1,5 @@
+<b>Dictionary for Supplemental Table 3</b>
+<em>(Table column descriptions)</em>
 
 Column Descriptions	
 <table>						
