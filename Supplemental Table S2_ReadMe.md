@@ -1,24 +1,4 @@
 Dictionary for Supplemental Table 2
-<thead><tr><th>	Column Name	</th><th>	Unit of measurement	</th><th>	Description	</th></tr></thead>
-<tbody>						
-<tr><td> 	activity	</td><td>	--	</td><td>	Shorthand identifier for the individual Natural Climate Solutions pathway assessed.	</td></tr>
-<tr><td> 	type	</td><td>	--	</td><td>	AC or seq	</td></tr>
-<tr><td> 	county	</td><td>	--	</td><td>	County name.	</td></tr>
-<tr><td> 	baseline	</td><td>	(see below)	</td><td>	Current annual rate of net CO2e reductions from the activity.	</td></tr>
-<tr><td> 	cv	</td><td>	--	</td><td>	Coefficient of variation, OR estimated variation if CV is otherwise incalcuable due to input data constraints. If this was evaluated to greater than 1, this value was altered manually to equal 1 to limit the available activity to baseline plausibilty, where the scenarios define the increase in the activity annually.	</td></tr>
-<tr><td> 	seq_rate	</td><td>	MMT CO2e	</td><td>	Rate of sequestration with the activity per baseline unit.	</td></tr>
-<tr><td> 	seq_rate_sd	</td><td>	MMT CO2e	</td><td>	Standard deviation of sequestration rate.	</td></tr>
-<tr><td> 	ac_stock	</td><td>	MMT CO2e	</td><td>	Rate of emissions avoided with the activity per baseline unit.	</td></tr>
-<tr><td> 	ac_stock_sd	</td><td>	MMT CO2e	</td><td>	Standard deviation of ac_stock.	</td></tr>
-<tr><td> 	rate_mean	</td><td>	MMT CO2e	</td><td>	Only for Extended Timber Harvest Rotations pathway. 	</td></tr>
-<tr><td> 	rate_sd	</td><td>	MMT CO2e	</td><td>	Only for Extended Timber Harvest Rotations pathway. 	</td></tr>
-<tr><td> 	stock_mean	</td><td>	MMT CO2e	</td><td>	Only for Extended Timber Harvest Rotations pathway. 	</td></tr>
-<tr><td> 	stock_sd	</td><td>	MMT CO2e	</td><td>	Only for Extended Timber Harvest Rotations pathway. 	</td></tr>
-<tr><td> 	fire_mean	</td><td>	Hectare	</td><td>	Only for Replanting after Wildfires pathway. Mean annual fire area.	</td></tr>
-<tr><td> 	fire_sd	</td><td>	Hectare	</td><td>	Only for Replanting after Wildfires pathway. Standard deviation of mean annual fire area.	</td></tr>
-<tr><td> 	mean_reveg	</td><td>	Hectare	</td><td>	Only for Replanting after Wildfires pathway. Mean annual fire area replanted.	</td></tr>
-</tbody>						
-</table>						
 
 Column Descriptions:
 <table>
