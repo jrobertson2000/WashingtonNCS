@@ -1,4 +1,4 @@
-<b>Dictionary for Supplemental Tables S4-S8</b>
+<b>Dictionary for Supplemental Tables S4-S9</b>
 <em>(Run and table column descriptions and dictionary)</em>
 
 <table>						
@@ -8,7 +8,8 @@
 <tr><td> 	Supplemental Table S5.csv	</td><td>	Evaluated results of Monte Carlo runs on each pathway activity per scenario in each year, statewide.	</td></tr>		
 <tr><td> 	Supplemental Table S6.csv	</td><td>	Evaluated results of Monte Carlo runs on each scenario in each year, per county.	</td></tr>		
 <tr><td> 	Supplemental Table S7.csv	</td><td>	Evaluated results of Monte Carlo runs on each pathway subactivity per scenario in each year, per county.	</td></tr>		
-<tr><td> 	Supplemental Table S8.csv	</td><td>	Evaluated results of Monte Carlo runs on each pathway activity per scenario in each year, per county.	</td></tr>		
+<tr><td> 	Supplemental Table S8.csv	</td><td>	Evaluated results of Monte Carlo runs on each pathway activity per scenario in each year, per county.	</td></tr>
+<tr><td>  Supplemental Table S9.xlsx </td><td> Reductions (MMT CO2e) per county by pathway in final year of model. </td></tr>
 </tbody>						
 </table>						
 <table>						
