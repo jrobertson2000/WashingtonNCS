@@ -1,7 +1,7 @@
 # WashingtonNCS
 This repository holds supplemental files from "Leveraging the potential of nature to meet net zero greenhouse gas emissions in Washington State" (Robertson et al., in review).
 
-List of supplemental files:
+The following is a list of supplemental files, and see the ReadMe files associated with them for more descriptive information:
 
 <table>
 <thead><tr><th>FileName</th><th>Description</th></tr></thead>
