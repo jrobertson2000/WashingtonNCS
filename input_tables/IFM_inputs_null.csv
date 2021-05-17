@@ -1,0 +1,6 @@
+,activity,county,type,rate_mean,rate_sd,stock_mean,stock_sd,baseline,cv,cv_scenario
+Forest,Fed,null,AC,0,0,0,0,0,0,0
+Forest,Other,null,AC,0,0,0,0,0,0,0
+Forest,Private,null,AC,0,0,0,0,0,0,0
+Forest,State,null,AC,0,0,0,0,0,0,0
+Forest,Prvt_Seq,null,AC,0,0,0,0,0,0,0
