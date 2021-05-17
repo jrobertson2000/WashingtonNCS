@@ -1,4 +1,5 @@
-Dictionary for Supplemental Table 2
+<b>Dictionary for Supplemental Table 2</b>
+<em>(Table column and NCS activity descriptions)</em>
 
 Column Descriptions:
 <table>
