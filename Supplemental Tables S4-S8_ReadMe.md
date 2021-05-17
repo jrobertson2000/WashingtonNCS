@@ -1,3 +1,5 @@
+<b>Dictionary for Supplemental Tables S4-S8</b>
+<em>(Run and table column descriptions and dictionary)</em>
 
 <table>						
 <thead><tr><th>	FileName	</th><th>	Description	</th></tr></thead>		
