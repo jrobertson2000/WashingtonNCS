@@ -1,7 +1,7 @@
 # WashingtonNCS
 This repository holds supplemental files from "Leveraging the potential of nature to meet net zero greenhouse gas emissions in Washington State" (Robertson et al., in review).
 
-This table describes the supplemental files for reference.
+List of supplemental files:
 
 <table>
 <thead><tr><th>FileName</th><th>Description</th></tr></thead>
@@ -14,7 +14,7 @@ This table describes the supplemental files for reference.
 <tr><td>Supplemental Table S6.csv	</td><td>Evaluated results of Monte Carlo runs on each scenario in each year, per county.</td></tr>
 <tr><td>Supplemental Table S7.csv	</td><td>Evaluated results of Monte Carlo runs on each pathway subactivity per scenario in each year, per county.</td></tr>
 <tr><td>Supplemental Table S8.csv	</td><td>Evaluated results of Monte Carlo runs on each pathway activity per scenario in each year, per county.</td></tr>
-<tr><td>Supplemental Table S9.xlsx	</td><td>Emissions reductions per area of each county in final year of model, from results in S7.</td></tr>
+<tr><td>Supplemental Table S9.xlsx	</td><td>Emissions reductions per area of each county in final year of model, from results in S8.</td></tr>
 <tr><td>Supplemental Code S10.R	</td><td>Calculates CO2e sequestration of Natural Climate Solutions (NCS) pathways by county.</td></tr>
 <tr><td>Supplemental Code S11.R	</td><td>Calculates median values and confidence intervals for unique combinations of input tables, here using columns named Scenario, ScenName, County, Activity, Subactivity, and Year.</td></tr>
 </tbody>
